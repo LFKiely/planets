@@ -1,2 +1,3 @@
 mars is a planet 
 
+mars is near the sun
